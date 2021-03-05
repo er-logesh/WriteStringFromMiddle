@@ -1,4 +1,4 @@
-This program is created in .Net Core 3.1
+This is a console application created in .Net Core 3.1
 
 To Run this program we need .Net Core Runtime that can be downloaded from https://dotnet.microsoft.com/download/dotnet/3.1
 
