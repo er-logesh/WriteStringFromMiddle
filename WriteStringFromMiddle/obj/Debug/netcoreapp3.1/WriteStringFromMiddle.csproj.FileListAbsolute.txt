@@ -1,0 +1,13 @@
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\bin\Debug\netcoreapp3.1\WriteStringFromMiddle.exe
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\bin\Debug\netcoreapp3.1\WriteStringFromMiddle.deps.json
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\bin\Debug\netcoreapp3.1\WriteStringFromMiddle.runtimeconfig.json
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\bin\Debug\netcoreapp3.1\WriteStringFromMiddle.runtimeconfig.dev.json
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\bin\Debug\netcoreapp3.1\WriteStringFromMiddle.dll
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\bin\Debug\netcoreapp3.1\WriteStringFromMiddle.pdb
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\obj\Debug\netcoreapp3.1\WriteStringFromMiddle.csprojAssemblyReference.cache
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\obj\Debug\netcoreapp3.1\WriteStringFromMiddle.AssemblyInfoInputs.cache
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\obj\Debug\netcoreapp3.1\WriteStringFromMiddle.AssemblyInfo.cs
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\obj\Debug\netcoreapp3.1\WriteStringFromMiddle.csproj.CoreCompileInputs.cache
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\obj\Debug\netcoreapp3.1\WriteStringFromMiddle.dll
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\obj\Debug\netcoreapp3.1\WriteStringFromMiddle.pdb
+D:\Code\Poc\DotNetApp\WriteStringFromMiddle\WriteStringFromMiddle\obj\Debug\netcoreapp3.1\WriteStringFromMiddle.genruntimeconfig.cache
